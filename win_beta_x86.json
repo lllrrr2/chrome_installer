@@ -1,16 +1,16 @@
 {
-    "version": "103.0.5060.33",
-    "size": 81767584,
-    "sha1": "2c31549f39b9b57f79b73ca2227e3c18600fe765",
-    "sha256": "ececdeed2238a56eaba08b30eba25798dbaffc2315b288c436b9f6cbba275747",
+    "version": "104.0.5112.39",
+    "size": 85566040,
+    "sha1": "0999c909b34d53733177607867f6df4f9e1da959",
+    "sha256": "0fae81edd1414abd87af7c847707eac0c3932da840e7666e40f871834b41b695",
     "urls": [
-        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "http://redirector.gvt1.com/edgedl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "https://redirector.gvt1.com/edgedl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "http://dl.google.com/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "https://dl.google.com/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "http://www.google.com/dl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe",
-        "https://www.google.com/dl/release2/chrome/actx6yfakwhfuq7muic6ewptaclq_103.0.5060.33/103.0.5060.33_chrome_installer.exe"
+        "http://edgedl.me.gvt1.com/edgedl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "http://redirector.gvt1.com/edgedl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "https://edgedl.me.gvt1.com/edgedl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "https://redirector.gvt1.com/edgedl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "http://dl.google.com/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "https://dl.google.com/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "http://www.google.com/dl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe",
+        "https://www.google.com/dl/release2/chrome/al5bbqxwqbcoiser45m4nixc3u_104.0.5112.39/104.0.5112.39_chrome_installer.exe"
     ]
 }
